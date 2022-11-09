@@ -39,7 +39,6 @@ public class Exceptions {
         System.out.print("Mean is " + meanValue);
     }
 
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         array = scanner.nextLine();

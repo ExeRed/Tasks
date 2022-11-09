@@ -34,4 +34,5 @@ interface ThreeMethodsInterface {
     void do2();
 
     void do3();
+
 }
